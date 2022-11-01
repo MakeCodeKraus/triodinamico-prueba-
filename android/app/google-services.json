@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969878003523",
+    "project_id": "trio-dinamico",
+    "storage_bucket": "trio-dinamico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969878003523:android:b98d6b6971cd21d5ac99f6",
+        "android_client_info": {
+          "package_name": "com.example.trio_dinamico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969878003523-md8fp6ajv30qu547540259rqqlgm0qub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEe2U6WwU3YLKES-DH8kyGtFto-aXkInQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969878003523-md8fp6ajv30qu547540259rqqlgm0qub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
